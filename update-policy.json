@@ -1,0 +1,16 @@
+{
+  "policy": {
+    "version": 1,
+    "sequence": 1,
+    "issuedAt": "2026-07-28T10:38:34.290Z",
+    "expiresAt": "2026-08-27T10:38:34.290Z",
+    "latestVersion": "3.0.0",
+    "channel": "stable",
+    "minimumSupportedVersion": "3.0.0",
+    "rolloutPercentage": 100,
+    "suspended": false,
+    "revokedVersions": [],
+    "message": "Sal380 verified stable update policy."
+  },
+  "signature": "xnlhcvd/aOxMkL/p2MV6sg8IB2gxG5mF/Zor3a4KFcffoNiYDgySUCN8h4eZQGZ3DNkVT0qiuz8viK3tnOi0Dw=="
+}
