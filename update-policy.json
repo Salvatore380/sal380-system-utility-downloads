@@ -3,11 +3,11 @@
     "version": 1,
     "latestVersion": "3.0.34",
     "channel": "stable",
-    "sequence": 41,
-    "issuedAt": "2026-08-18T18:05:43.552Z",
-    "expiresAt": "2027-08-18T18:05:43.552Z",
+    "sequence": 43,
+    "issuedAt": "2026-08-18T18:48:05.780Z",
+    "expiresAt": "2027-08-18T18:48:05.780Z",
     "rolloutPercentage": 100,
     "minimumSupportedVersion": "3.0.0"
   },
-  "signature": "+QjyX5t41DNQEepWe7a1g3l0jAugSQpgseJhkNjTywavZ9hNk/mQgQ+6CYnoF8MJ3z1QrbqkWR/G4tEJjVgaAQ=="
+  "signature": "BT8AnDmtTVd5FBRP51Km9UWbtcj290W0F+mDCCuaK+U5gmTcxM/qIjWk09MPJhhdf1lL+cSGfD8Z6mzmz/VLDg=="
 }
