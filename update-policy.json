@@ -1,13 +1,13 @@
 {
   "policy": {
     "version": 1,
-    "latestVersion": "3.0.72",
+    "latestVersion": "3.0.73",
     "channel": "stable",
-    "sequence": 85,
-    "issuedAt": "2026-09-28T08:54:23.097Z",
-    "expiresAt": "2027-09-28T08:54:23.097Z",
+    "sequence": 86,
+    "issuedAt": "2026-09-29T09:17:15.588Z",
+    "expiresAt": "2027-09-29T09:17:15.588Z",
     "rolloutPercentage": 100,
     "minimumSupportedVersion": "3.0.0"
   },
-  "signature": "Ef6sgIE+An6TPel9WpdaJEmSSyB23VSlMyGSQX0876GCezyqb+rCGjwQSBo4PvSLnGI1roC+w9FnvLKudCfTAg=="
+  "signature": "KVRlzszjhU9TcZgzXv51WKB6IAQMm2vIckhIYVfjQh6OCZbrDKhGnxhM8R3tC5UlxRqD6M5eX4pULGRfmuBKBQ=="
 }
