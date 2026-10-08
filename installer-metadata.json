@@ -1,8 +1,8 @@
 {
     "schemaVersion":  1,
-    "version":  "3.0.93",
-    "sizeBytes":  183923878,
+    "version":  "3.0.94",
+    "sizeBytes":  184122035,
     "installerName":  "Sal380-System-Utility-Setup-latest-x64.exe",
     "downloadUrl":  "https://github.com/Salvatore380/sal380-system-utility-downloads/releases/latest/download/Sal380-System-Utility-Setup-latest-x64.exe",
-    "sha256":  "28a3d7988d223d63004abf91b884d4e03efd0e11b8e170900a2c8d4c72e77765"
+    "sha256":  "ac9b1c03d25332b602a6968733f3c2d7bbf5ee58ba27b39dbb8daa7248918d01"
 }
