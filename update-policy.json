@@ -1,14 +1,14 @@
 {
   "policy": {
     "version": 1,
-    "latestVersion": "3.1.26",
+    "latestVersion": "3.1.27",
     "channel": "stable",
-    "sequence": 145,
-    "issuedAt": "2026-11-01T10:58:52.748Z",
-    "expiresAt": "2027-11-01T10:58:52.748Z",
+    "sequence": 146,
+    "issuedAt": "2026-11-01T16:47:21.808Z",
+    "expiresAt": "2027-11-01T16:47:21.808Z",
     "rolloutPercentage": 100,
     "minimumSupportedVersion": "3.0.0",
-    "installerSha256": "5edd80c71a5535ec699e47bff54ce8836fd02059e1f961c0aaa0792384b21e3c"
+    "installerSha256": "64be83d6167a0e08ac58f1711efa295b22d6974e7e5ffbbc682fb242757173f7"
   },
-  "signature": "Q3WivgpqncoTFYwqTeANL5r7ioww4xhZeCNNS2ZCfXU4lXSi3g5PDQ9Qp0eN+KRO72gO3PQMWwvBWeNXMaYkBA=="
+  "signature": "NX2chTmq73dX51llF6FgznJPoMqU2i2SXXvrM5uEzyowDreXKN0bXEB3KMuQnpBisMJ2i2cEr7N5whj+181/Cw=="
 }
